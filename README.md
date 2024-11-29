@@ -1,4 +1,4 @@
-TinDog - Dog Dating App
+# **TinDog - Dog Dating App**
 TinDog is an innovative dating app built specifically for dogs (and their owners!) to find their perfect match. With a user-friendly interface designed using Bootstrap, it’s the easiest way for your dog to connect with others in your neighborhood, or even globally! Whether you’re looking for the hottest Corgi in town or a friendly Labrador, TinDog has you covered.
 Overview
 TinDog connects dogs with their perfect match, using a fun and intuitive platform. The app includes features like swipeable dog profiles, match suggestions, and messaging—all accessible with different pricing tiers. Whether your dog is a small Chihuahua or a large Mastiff, TinDog is sure to bring a smile to both you and your furry friend.
